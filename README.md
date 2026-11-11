@@ -4,7 +4,7 @@
 
 ## 🔗 Links do Projeto
 - **Aplicação Publicada:** https://douglas-travel-wallet.lovable.app/
-- **Repositório GitHub:** https://github.com/diocatelli7-hue/douglasfinance
+- **Repositório GitHub:**  https://github.com/dlocatelli7-hue/DouglasFinanceira/blob/main/README.md)
 
 ---
 
